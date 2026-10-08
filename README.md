@@ -3,7 +3,7 @@
 AnimeZING is split into two applications:
 
 ```text
-AnimeZINGG/
+AnimeZING/
 ├── backend/   Laravel 13 REST API
 └── frontend/  React + Vite + Tailwind UI
 ```
